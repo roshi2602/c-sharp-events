@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\events\events\bin\Debug\events.exe.config
+C:\Users\lenovo\source\repos\events\events\bin\Debug\events.exe
+C:\Users\lenovo\source\repos\events\events\bin\Debug\events.pdb
+C:\Users\lenovo\source\repos\events\events\obj\Debug\events.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\events\events\obj\Debug\events.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\events\events\obj\Debug\events.exe
+C:\Users\lenovo\source\repos\events\events\obj\Debug\events.pdb
